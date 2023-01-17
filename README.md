@@ -1,4 +1,4 @@
-# GeneratorNaglowka
+# Generator Nagłówka
 Projekt na ocenę dodatkową z przedmiotu Programowanie Obiektowe
 
 Dodatek do PowerPointa, który na stronach z podanego zakresu dodaje nagłówek w postaci figur geometrycznych z wpisanymi nazwami rozdziałów. Na slajdzie którego dotyczy nagłówek, styl figury i formatowanie tekstu mogą być zmienione.
